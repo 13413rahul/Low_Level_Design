@@ -1,4 +1,4 @@
-package Coffiehouseuingdecotetor;
+package coffeehouseuingdecorator;
 
 public class Cappuccino extends Beverage {
     public Cappuccino() {

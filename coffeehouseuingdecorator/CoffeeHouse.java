@@ -1,4 +1,4 @@
-package Coffiehouseuingdecotetor;
+package coffeehouseuingdecorator;
 
 public class CoffeeHouse {
     public static void main(String[] args) {

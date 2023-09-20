@@ -1,4 +1,4 @@
-package Coffiehouseuingdecotetor;
+package coffeehouseuingdecorator;
 
 public abstract class Beverage {
     String beverageName = "";

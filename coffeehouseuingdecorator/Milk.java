@@ -1,4 +1,4 @@
-package Coffiehouseuingdecotetor;
+package coffeehouseuingdecorator;
 
 public class Milk extends IngredientDecorator {
     Beverage beverage;

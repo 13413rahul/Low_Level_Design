@@ -1,4 +1,4 @@
-package Coffiehouseuingdecotetor;
+package coffeehouseuingdecorator;
 
 public class Caramel extends IngredientDecorator{
     Beverage beverage;
